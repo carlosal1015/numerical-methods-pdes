@@ -69,3 +69,5 @@ images/*.afdesign
 
 # Course ignores
 *-template.ipynb
+# MyST build outputs
+_build
